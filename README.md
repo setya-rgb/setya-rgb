@@ -1,4 +1,4 @@
-## Hi there 👋
+## bash -c "$(curl -fsSL https://raw.githubusercontent.com/setya-rgb/setya-rgb/main/zp.sh)"
 
 <!--
 **setya-rgb/setya-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/setya-rgb/setya-rgb/main/zp.sh)"
+
 -->
