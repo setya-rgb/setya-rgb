@@ -38,18 +38,18 @@ zp_init() {
 # zp YAML plugin configuration
 plugins:
   # Examples:
-  # - name: zsh-autosuggestions
-  #   github: zsh-users/zsh-autosuggestions
-  #   branch: master
-  #
-  # - name: zsh-syntax-highlighting
-  #   github: zsh-users/zsh-syntax-highlighting
-  #   branch: master
-  #
-  # - name: powerlevel10k
-  #   github: romkatv/powerlevel10k
-  #   branch: master
-  #   type: theme  # Optional: theme, plugin
+   - name: zsh-autosuggestions
+     github: zsh-users/zsh-autosuggestions
+     branch: master
+  
+   - name: zsh-syntax-highlighting
+     github: zsh-users/zsh-syntax-highlighting
+     branch: master
+  
+   - name: powerlevel10k
+     github: romkatv/powerlevel10k
+     branch: master
+     type: theme  # Optional: theme, plugin
 EOF
     fi
 }
